@@ -38,6 +38,13 @@ Thumbs.db
 coverage/
 .nyc_output/
 
+# Development docs
+MANUAL_TESTING.md
+PUBLISHING_GUIDE.md
+test-*.js
+test-*.sh
+*.sh
+
 # Package files
 *.tgz
 

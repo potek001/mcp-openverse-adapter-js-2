@@ -195,10 +195,6 @@ npx @modelcontextprotocol/inspector dist/index.js
 }
 ```
 
-## Integration with WRITE System
-
-This MCP server is designed to work seamlessly with the WRITE essay development system. When using `claude-write-enhanced.sh`, images will be automatically sourced using this server.
-
 ## License
 
 MIT License - see LICENSE file for details.
