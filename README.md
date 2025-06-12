@@ -2,6 +2,10 @@
 
 An MCP (Model Context Protocol) server that provides tools for searching and fetching openly-licensed images from [Openverse](https://openverse.org/).
 
+<a href="https://glama.ai/mcp/servers/@neno-is-ooo/mcp-openverse">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@neno-is-ooo/mcp-openverse/badge" alt="@mcp/openverse MCP server" />
+</a>
+
 ## Features
 
 - 🔍 Search for CC-licensed and public domain images
